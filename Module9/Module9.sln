@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithHtml", "WorkingWithHtml\WorkingWithHtml.csproj", "{B33066F1-A7D7-4430-88CC-251EB2A45877}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPageLifeCycle", "WebPageLifeCycle\WebPageLifeCycle.csproj", "{EF3FE373-D249-47FE-858C-C4DBF5E73C60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B33066F1-A7D7-4430-88CC-251EB2A45877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B33066F1-A7D7-4430-88CC-251EB2A45877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B33066F1-A7D7-4430-88CC-251EB2A45877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B33066F1-A7D7-4430-88CC-251EB2A45877}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF3FE373-D249-47FE-858C-C4DBF5E73C60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF3FE373-D249-47FE-858C-C4DBF5E73C60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF3FE373-D249-47FE-858C-C4DBF5E73C60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF3FE373-D249-47FE-858C-C4DBF5E73C60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA2ECBBF-F300-4A94-84BC-5F03E5FC64C5}
+	EndGlobalSection
+EndGlobal
